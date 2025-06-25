@@ -1,0 +1,1 @@
+This project builds a Spotify music recommender system using unsupervised clustering. Based on a user's input of a favorite track, artist, or both, the system recommends 5 new tracks from 5 different artists, tailored to their musical taste. The recommender is built using KMeans clustering applied to Spotify track features.
